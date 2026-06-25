@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="/">{{ site.title }}</a>
+        <nav class="site-nav">
+          <a href="/">Strona główna</a>
+          <a href="/czlonkowie">Członkowie</a>
+          <a href="/osiagniecia">Osiągnięcia</a>
+          <a href="/blog">Blog</a>
+        </nav>
+      </div>
+    </header>
+    <div class="container">
+      {{ content }}
+    </div>
+  </body>
+</html>
