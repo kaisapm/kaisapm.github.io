@@ -1,6 +1,6 @@
 
 ---
-layout: default
+layout: post
 title:  "Pierwszy wpis na blogu!"
 date:   2026-06-25 10:00:00 +0200
 categories: jekyll update

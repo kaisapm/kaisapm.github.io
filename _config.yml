@@ -5,11 +5,23 @@ description: >-
 baseurl: ""
 url: "https://kaisapm.github.io"
 github_username: kaisapm
+remote_theme: daattali/beautiful-jekyll
+
+# navbar-links
+navbar-links:
+  - title: Strona główna
+    url: /
+  - title: Członkowie
+    url: /czlonkowie
+  - title: Osiągnięcia
+    url: /osiagniecia
+  - title: Blog
+    url: /blog
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
