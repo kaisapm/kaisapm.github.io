@@ -20,3 +20,4 @@ Tutaj znajdziesz informacje o członkach naszej drużyny.
     {% endfor %}
   </ul>
 {% endfor %}
+
