@@ -1,0 +1,14 @@
+
+- name: "John Doe"
+  handle: "johndoe"
+  description: "Specjalista od bezpieczeństwa webowego. Entuzjasta otwartego oprogramowania."
+  skills:
+    - "web"
+    - "pentesting"
+
+- name: "Jane Smith"
+  handle: "janesmith"
+  description: "Ekspertka od inżynierii wstecznej i analizy złośliwego oprogramowania."
+  skills:
+    - "rev"
+    - "malware-analysis"
