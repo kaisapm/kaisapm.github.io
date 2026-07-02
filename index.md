@@ -5,7 +5,7 @@ title: Witaj w Projekcie P
 
 # Projekt "P"
 
-Jesteśmy grupą pasjonatów cyberbezpieczeństwa, drużyną CTF i autorami technicznymi. Poniżej znajdziesz kluczowe sekcje naszej strony.
+Jesteśmy grupą pasjonatów cyberbezpieczeństwa, drużyną CTF i sigmami.
 
 <div class="showcase-links">
   <a href="/czlonkowie" class="showcase-link">
