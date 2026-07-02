@@ -1,13 +1,13 @@
-- name: "John Doe"
-  handle: "johndoe"
-  description: "Specjalista od bezpieczeństwa webowego. Entuzjasta otwartego oprogramowania."
+- name: "Maniek"
+  handle: "maniek"
+  description: "Specjalista od Apache. Kto nie kocha Apache?"
   skills:
     - "web"
     - "pentesting"
 
-- name: "Jane Smith"
-  handle: "janesmith"
-  description: "Ekspertka od inżynierii wstecznej i analizy złośliwego oprogramowania."
+- name: "July"
+  handle: "july"
+  description: "meow"
   skills:
-    - "rev"
-    - "malware-analysis"
+    - "osint"
+    - "self-malware-analysis"
